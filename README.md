@@ -21,6 +21,6 @@ In this project, we will use a dataset containing information about taxi rides a
 
 ## Contact 📧
 
-If you have any questions or feedback, feel free to reach out. We'd love to hear from you!
+If you have any questions or feedback, feel free to reach out. I'd love to hear from you!
 
 Happy coding! 💻
